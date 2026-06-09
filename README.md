@@ -4,7 +4,6 @@ MVP simulado para recibir archivos por WhatsApp, elegir una persona, elegir una 
 
 Por ahora no descarga media real desde Twilio, no usa Twilio SDK para enviar mensajes salientes y no conecta Google Drive real. El sistema está centrado en estas personas:
 
-- `fernando_gutman`: Fernando Gutman
 - `pablo_sanchez`: Pablo Sanchez
 
 ## Instalación
