@@ -1,0 +1,24 @@
+# Pendientes
+
+- Conectar Twilio real.
+- Configurar Twilio Sandbox.
+- Responder con TwiML o Twilio SDK.
+- Recibir media real desde WhatsApp.
+- Descargar archivos reales desde Twilio MediaUrl.
+- Conectar Google Drive API.
+- Crear carpeta raíz `Documentos Kani` en Drive.
+- Crear carpeta raíz por persona.
+- Crear carpetas internas C 001 a C 010 por persona.
+- Guardar `drive_folder_id` en `data/folders.json`.
+- Subir archivos reales a la carpeta correspondiente.
+- Renombrar carpetas reales en Drive sin cambiar `drive_folder_id`.
+- Configurar Google Drive para escritorio en la PC del cliente.
+- Definir si la carpeta se usará en modo streaming o disponible sin conexión.
+- Documentar procedimiento de instalación para el cliente.
+- Validar conflictos si el cliente renombra carpetas manualmente desde la PC.
+- Definir si el sistema será la fuente principal de nombres o si se aceptarán cambios manuales desde Drive/PC.
+- Validar duplicados.
+- Restringir números autorizados.
+- Desplegar en Render.
+- Agregar logs.
+- Agregar panel visual opcional.

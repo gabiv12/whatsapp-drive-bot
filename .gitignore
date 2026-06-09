@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+tmp/uploads/
+*.pyc
+credentials.json
+token.json
+*.log
+.DS_Store
